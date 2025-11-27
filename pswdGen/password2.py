@@ -1,5 +1,5 @@
 #password generator
-
+#Using the random module
 import random
 import string
 

@@ -1,5 +1,5 @@
 #Password Generator
-
+#Tapping into the Operating Systems's entropy
 import os
 import base64
 
